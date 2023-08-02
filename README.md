@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://bucolic-swan-fe313a.netlify.app/"><img src="[https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/logo-netflix-clone.png?raw=true](https://bucolic-swan-fe313a.netlify.app/)" alt="Logo" width="210"></a>
+    <a href="https://bucolic-swan-fe313a.netlify.app/"><img src="https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0" alt="Logo" width="210"></a>
 </p>
 <p align="center">
     <a href="https://bucolic-swan-fe313a.netlify.app/"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/netflix-gif.gif?raw=true" alt="Banner" width="700"></a>
@@ -10,14 +10,13 @@
     Netflix homepage clone using React JS.
     <br />
     <br />
-<a href="https://mcosta21.github.io/netflix-clone-reactjs/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-gitpages.png?raw=true" alt="React JS" width="140"></a>  
 </p>
 
 ## Technologies
 Basically, this project was developed based on the following technologies:
 
 <p align="center">
- <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-reactjs.png?raw=true" alt="React JS" width="60"></a>
+ <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://th.bing.com/th/id/OIP.J0JE-fKbFT4bxpp8ilPpEQHaHa?pid=ImgDet&rs=1" alt="React JS" width="60"></a>
   &nbsp&nbsp
 <a href="https://www.themoviedb.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-tmdb.png?raw=true" alt="TMDB" width="60"></a>
   &nbsp&nbsp
@@ -25,11 +24,8 @@ Basically, this project was developed based on the following technologies:
 
 ## Do you too
 
-<p align="justify">The 🔥 <strong>NETFLIX Clone in REACTJS for Beginners</strong> video by the amazing <strong>Bonieky Lacerda</strong> was used as a basis for creating the project and made me go beyond what was taught.</p>
+<p align="justify">The 🔥 <strong>NETFLIX Clone in REACTJS for Beginners</strong> video by the amazing <strong>Pushpak Rai</strong> was used as a basis for creating the project and made me go beyond what was taught.</p>
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=tBweoUiMsDg&t=6353s&ab_channel=BoniekyLacerda" target="_blank"><img src="http://img.youtube.com/vi/tBweoUiMsDg/0.jpg" alt="🔥 NETFLIX Clone in REACTJS for Beginners"></a>
-</p>
 
 ## Start project
 
