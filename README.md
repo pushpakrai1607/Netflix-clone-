@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+<br />
+<p align="center">
+    <a href="https://mcosta21.github.io/netflix-clone-reactjs/"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/logo-netflix-clone.png?raw=true" alt="Logo" width="210"></a>
+</p>
+<p align="center">
+    <a href="https://mcosta21.github.io/netflix-clone-reactjs/"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/netflix-gif.gif?raw=true" alt="Banner" width="700"></a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    Netflix homepage clone using React JS.
+    <br />
+    <br />
+<a href="https://mcosta21.github.io/netflix-clone-reactjs/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-gitpages.png?raw=true" alt="React JS" width="140"></a>  
+</p>
 
-## Available Scripts
+## Technologies
+Basically, this project was developed based on the following technologies:
 
-In the project directory, you can run:
+<p align="center">
+ <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-reactjs.png?raw=true" alt="React JS" width="60"></a>
+  &nbsp&nbsp
+<a href="https://www.themoviedb.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-tmdb.png?raw=true" alt="TMDB" width="60"></a>
+  &nbsp&nbsp
+</p>
 
-### `npm start`
+## Do you too
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="justify">The 🔥 <strong>NETFLIX Clone in REACTJS for Beginners</strong> video by the amazing <strong>Bonieky Lacerda</strong> was used as a basis for creating the project and made me go beyond what was taught.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+<a href="https://www.youtube.com/watch?v=tBweoUiMsDg&t=6353s&ab_channel=BoniekyLacerda" target="_blank"><img src="http://img.youtube.com/vi/tBweoUiMsDg/0.jpg" alt="🔥 NETFLIX Clone in REACTJS for Beginners"></a>
+</p>
 
-### `npm test`
+## Start project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+With the terminal available, follow the instructions below:
 
-### `npm run build`
+```bash
+# Clone the repository
+$ git clone https://github.com/mcosta21/netflix-clone-reactjs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Access the netflix-clone-reactjs folder
+$ cd netflix-clone-reactjs
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+$ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Start application
+$ npm start
 
-### `npm run eject`
+# Application running on port 3000
+```
+### Observation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To use themoviedb.org API, you must register and obtain an access key, which is necessarily used in the application.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> Folder **src** > **Tmdbb.js** > **API_KEY**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is under the Apache license.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br/>
