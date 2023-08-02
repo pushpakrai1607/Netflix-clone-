@@ -24,7 +24,7 @@ Basically, this project was developed based on the following technologies:
 
 ## Do you too
 
-<p align="justify">The 🔥 <strong>NETFLIX Clone in REACTJS for Beginners</strong> video by the amazing <strong>Pushpak Rai</strong> was used as a basis for creating the project and made me go beyond what was taught.</p>
+<p align="justify">The 🔥 <strong>NETFLIX Clone in REACTJS for Beginners</strong> video.</p>
 
 
 ## Start project
